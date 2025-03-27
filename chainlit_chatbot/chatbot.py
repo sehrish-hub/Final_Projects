@@ -155,3 +155,4 @@ async def handle_message(message: cl.Message):
 
     history.append({"role": "assistant", "content": result.final_output})  # Store AI response
     cl.user_session.set("history", history)  # Save history for future interactions
+    
