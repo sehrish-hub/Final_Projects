@@ -9,7 +9,10 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "chainlit>=2.4.301",
+    "geopy>=2.4.1",
     "openai-agents>=0.0.6",
+    "pytz>=2025.2",
+    "timezonefinder>=6.5.9",
 ]
 
 [project.scripts]
