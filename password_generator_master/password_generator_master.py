@@ -21,3 +21,4 @@ if st.button("Generate Password"): # button to generate the password
 
 st.write("---") # write a line to separate the password from the developer's name
 st.write("Developed by: [@Sehrish](https://github.com/sehrish-hub)") # write the developer's name and link to their github profile
+
