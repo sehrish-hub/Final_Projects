@@ -1,5 +1,0 @@
-chainlit
-openai-agents
-geopy
-pytz
-timezonefinder
